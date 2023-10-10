@@ -1,0 +1,86 @@
+* {
+ font-family: 7;
+ text-align: center;
+}
+form input {
+ position: relative;
+ padding: 10px;
+  background-color: #f0f2f5;
+  border-radius: 15px;
+  top: 10px;
+}
+form button {
+ position: relative;
+ margin-left: 10px;
+  padding: 8px 16px;
+  border-radius: 20px;
+  background-color: #128C7E;
+  color: white;
+  border: none;
+  top: 20px;
+  display: block;
+  margin: 0 auto;
+}
+div img {
+ position: relative;
+ height: 45px;
+ width: 200px;
+ top: 4px;
+}
+#final {
+ position: relative;
+ background: black;
+ top: 100px;
+ border-radius: 20px;
+ 
+}
+div #grupo {
+ border-radius: 80px;
+ height: 95px;
+ width: 100px;
+}
+#final img {
+ position: relative;
+ height: 30px;
+ width: 120px;
+ left: 20px;
+}
+#final button {
+  position: relative;
+ margin-left: 10px;
+  padding: 20px 50px;
+  border-radius: 30px;
+  background-color: #25D366;
+  color: white;
+  border: none;
+  top: 20px;
+  display: block;
+  margin: 0 auto;
+
+}
+#final #ayuda, #que {
+ color: white ;
+}
+#final hr {
+ background: white;
+}
+#final #que {
+ text-align: left;
+ position: relative;
+ left: 30px;
+ width:300px;
+}
+#final #que p {
+ text-align: left;
+ position: relative;
+}
+#final #ayuda {
+ text-align: right;
+ position: relative;
+ top: -290px;
+ right: 30px;
+}
+#final #ayuda p {
+ text-align: right;
+ position: relative;
+}
