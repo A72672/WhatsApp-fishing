@@ -29,3 +29,9 @@ WhatsApp_fishing web
 # recursos
 
 > puedes utilizar los load implementado en los archivos :)
+>
+# fotos 
+
+<body>
+ <img src="https://raw.githubusercontent.com/A72672/WhatsApp-fishing/main/fhoto/Screenshot_2023-10-10_07-58-07.png">
+</body>
